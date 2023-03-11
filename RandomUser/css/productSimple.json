@@ -1,0 +1,11 @@
+{    
+    "ID": 34,
+    "name": "Golden Egg",
+    "type": "BATH BOMB MELT",
+    "description": "Shimmering sweet caramel",
+    "price": null,
+    "inStock": false,
+    "ingredients":["citric acid","baking soda", "cocoa butter"]
+} 
+
+    

@@ -1,0 +1,29 @@
+{
+   "name":"Golden Egg",
+   "type":"Bath Bomb Melt",
+   "description":"Shimmering sweet caramel",
+   "review":"\ud83d\ude12 It took ages for me to clean the bath.",
+   "overallRating":5,
+   "collectionReviews": [
+
+      "\ud83d\ude12 It took ages for me to clean the bath.",
+      "\ud83d\ude12 It was wonderful.",
+      "\ud83d\ude12 It was awful.",
+      "\ud83d\ude12 To sparkly for me."
+   ],  
+   "recipe":[
+      "Sodium Bicarbonate",
+       "Citric Acid", 
+       "Fair Trade Organic Cocoa Butter"],
+   "ingredients":[
+         {"commonName": "Baking Soda", "INCIName": "Sodium Bicarbonate"},
+         {"commonName": "Citric Acid","INCIName": "Sodium Bicarbonate"}, 
+         {"commonName": "Fair Trade Organic Cocoa Butter","INCIName":"Theobroma cacao"}],
+   "price":4.50,
+   "limitedEdition":false,
+   "sizeGrams":90,
+   "pictureURL":"images\\GoldenEgg.jpg",
+   "designerName": "Fiona North",
+   "designerPhoto": "images\\Fiona.jpg",
+   "designer" : {"name:":"Fiona North", "Photo": "images\\Fiona.jpg"}
+}

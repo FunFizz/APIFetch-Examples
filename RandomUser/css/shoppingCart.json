@@ -1,0 +1,22 @@
+{
+    "product":
+        {
+          "productID": 34,
+          "productName": "Golden Egg",
+
+          "price": 9.00,
+          "inStock": true,
+        
+        "order":
+
+            {   "id": 4334,
+                "date": "06/03/2023",
+                "quantity": 3,
+
+                "customer": "f.north@f.north@qub.ac.uk",
+                "delivery": null
+            }
+
+    }
+}
+    

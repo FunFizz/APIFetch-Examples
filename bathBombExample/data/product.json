@@ -1,0 +1,42 @@
+{ 
+    "ID" : 34,
+    "name" : "Golden Egg",
+    "description" : "Shimmering sweet caramel",
+    "type": {
+                "name":"BATH BOMB MELT",
+                "description":"Pop in a warm bath and enjoy"
+            },
+    "price" : null,
+    "inStock" : false,
+    "review":"\ud83d\ude12 It took ages for me to clean the bath.",
+
+    
+    "ingredient1_name" : "citric acid",
+    "ingredient1_description" : "Reacts with baking soda to make bubbles",
+    "ingredient2_name" : "baking soda",
+    "ingredient2_description" : "Maintains neutral pH",
+    "ingredient3_name": "cocoa butter",
+    "ingredient3_description" : "Fairtrade",
+
+
+    "ingredient1": {"name":"citric acid", "description":"Reacts with baking soda to make bubbles"},
+    "ingredient2": {"name": "baking soda", "description":"Maintains neutral pH"},
+    "ingredient3": {"name": "cocoa butter", "description":"Fairtrade"},
+
+
+    "ingredients": [
+                        {"name":"citric acid", "description":"Reacts with baking soda to make bubbles"},
+                        {"name": "baking soda", "description":"Maintains neutral pH"},
+                        {"name": "cocoa butter", "description":"Fairtrade"}
+                    ],
+
+
+
+    "0": {"name":"citric acid", "description":"Reacts with baking soda to make bubbles"},
+    "1": {"name": "baking soda", "description":"Maintains neutral pH"},
+    "2": {"name": "cocoa butter", "description":"Fairtrade"}
+
+
+
+} 
+

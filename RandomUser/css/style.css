@@ -1,0 +1,60 @@
+html {
+  height: 100%;
+  background-color: black;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items:normal;
+  height: 100%;
+  background-size:auto;
+  font-family: sans-serif; 
+}
+
+
+
+
+table{
+  align-self: center;
+}
+
+td{
+  width : 5vw;
+  border : none;
+
+  background-color:black;
+}
+
+.bench{
+  background-color:teal;
+  border : 2px solid white;
+  color:Black;
+  text-align: center;
+  margin: 0 0 0 0;
+  width : 7vw;
+  height:3vw;
+
+}
+
+.aisle{
+
+  border : none;
+  color:black;
+
+}
+
+
+
+#frame {
+  max-width: 100%;
+  text-align:centre;
+  padding: 10px 30px 10px 30px;
+  color: #eff4f0;
+  
+  justify-content: center;
+}
+
+
+
+
+
